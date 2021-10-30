@@ -1,15 +1,16 @@
-![I am GitHub Readme Generator's creator](https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/78176959_1009203566105189_1518182089147547648_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=vr90ZgSWZyYAX_M9TVA&_nc_ht=scontent.fdac135-1.fna&oh=d32b75e0106a9aaebdac9161e5a226f6&oe=61A38A8B)
+![I am GitHub Readme Generator's creator](https://scontent.xx.fbcdn.net/v/t1.15752-9/s417x417/247734892_1215644385625101_3386284675263835220_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=aee45a&_nc_ohc=8rARg5FhQKcAX8PbVp6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=0e2df1a0b375e10dfa134b332dacb22d&oe=61A26C1B)
 
 
-### Hi there 👋, I am Sadia 
-#### I am GitHub Readme Generator's creator
+### Hi there 👋, I am Sadia 💖
+#### I am GitHub Readme Generator's creator😃
+![I am GitHub Readme Generator's creator](https://scontent.xx.fbcdn.net/v/t1.15752-9/s417x417/247734892_1215644385625101_3386284675263835220_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=aee45a&_nc_ohc=8rARg5FhQKcAX8PbVp6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=0e2df1a0b375e10dfa134b332dacb22d&oe=61A26C1B)
 
 I am a student.
 
 Skills:  HTML 
 
-- 🔭 I’m currently working on Facebook page and I am doing tuitions also 
-- 🌱 I’m currently learning javaScript 
+- 🔭 I’m currently working on Facebook page and I am doing tuitions also 😎😊
+- 🌱 I’m currently learning javaScript 🎃
 - 👯 I’m looking to collaborate on Github 
 
 
@@ -19,9 +20,13 @@ Skills:  HTML
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stasnim9)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasnim9)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stasnim9&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stasnim9)  
+
+![GitHub metrics](https://metrics.lecoq.io/stasnim9)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stasnim9)  
 
