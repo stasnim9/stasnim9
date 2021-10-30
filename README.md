@@ -3,9 +3,7 @@
 
 ### Hi there 👋, I am Sadia 💖
 #### I am GitHub Readme Generator's creator😃
-![I am GitHub Readme Generator's creator](https://scontent.xx.fbcdn.net/v/t1.15752-9/s417x417/247734892_1215644385625101_3386284675263835220_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=aee45a&_nc_ohc=8rARg5FhQKcAX8PbVp6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=0e2df1a0b375e10dfa134b332dacb22d&oe=61A26C1B)
 
-I am a student.
 
 Skills:  HTML 
 
